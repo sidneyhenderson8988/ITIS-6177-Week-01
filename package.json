@@ -1,0 +1,25 @@
+{
+  "name": "week01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "engines":
+    {"node" : ">=10"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidneyhenderson8988/ITIS-6177-Week-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidneyhenderson8988/ITIS-6177-Week-01/issues"
+  },
+  "homepage": "https://github.com/sidneyhenderson8988/ITIS-6177-Week-01#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
