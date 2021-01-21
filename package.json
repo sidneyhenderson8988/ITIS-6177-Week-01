@@ -2,11 +2,12 @@
   "name": "week01",
   "version": "1.0.0",
   "description": "",
-  "main": "helloworld.js",
+  "main": "docker_test.js",
   "engines":
     {"node" : ">=10"},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node docker_test.js"
   },
   "repository": {
     "type": "git",
